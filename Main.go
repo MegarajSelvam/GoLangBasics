@@ -2,6 +2,8 @@ package main
 
 import (
 	"golangbasics/Ex_01_Hello_World"
+	"golangbasics/Ex_02_Variables"
+	"golangbasics/Ex_03_Conversions"
 )
 
 func main() {
@@ -13,4 +15,17 @@ func main() {
 
 	// Guesture Message
 	Ex_01_Hello_World.GuestureMessage()
+
+	// How to declare variables and thier scopes
+	Ex_02_Variables.VariableDeclarationStyle()
+
+	// Shadowing Concept
+	Ex_02_Variables.Shadowing()
+
+	// Convert from one numeric type to another
+	Ex_03_Conversions.NumericalConversions()
+
+	// Convert primitive data type to string
+	Ex_03_Conversions.StringConversions()
+
 }
