@@ -4,6 +4,8 @@ import (
 	"golangbasics/Ex_01_Hello_World"
 	"golangbasics/Ex_02_Variables"
 	"golangbasics/Ex_03_Conversions"
+	"golangbasics/Ex_04_Primitives"
+	"golangbasics/Ex_05_Operators"
 )
 
 func main() {
@@ -27,5 +29,21 @@ func main() {
 
 	// Convert primitive data type to string
 	Ex_03_Conversions.StringConversions()
+
+	Ex_03_Conversions.StringToBytes()
+
+	Ex_04_Primitives.BooleanDataTypes()
+
+	Ex_04_Primitives.ComplexDataType()
+
+	Ex_04_Primitives.NumberDataType()
+
+	Ex_04_Primitives.TextDataType()
+
+	Ex_05_Operators.ArithmeticOperators()
+
+	Ex_05_Operators.BitShifting()
+
+	Ex_05_Operators.BitWiseOperators()
 
 }

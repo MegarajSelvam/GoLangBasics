@@ -31,3 +31,9 @@ func StringConversions() {
 	var convertedStringWithstrconvPackage string = strconv.Itoa(num1)
 	fmt.Printf("%v %T \n", convertedStringWithstrconvPackage, convertedStringWithstrconvPackage)
 }
+
+func StringToBytes() {
+	s := "this is a string"
+	b := []byte(s)
+	fmt.Printf("%v %T\n", b, b)
+}
