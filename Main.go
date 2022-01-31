@@ -7,6 +7,7 @@ import (
 	"golangbasics/Ex_04_Primitives"
 	"golangbasics/Ex_05_Operators"
 	"golangbasics/Ex_06_Constants"
+	"golangbasics/Ex_07_Arrays_Slices"
 )
 
 func main() {
@@ -49,5 +50,21 @@ func main() {
 	Ex_06_Constants.EnumeratedConstants()
 
 	Ex_06_Constants.EnumeratedExpressions()
+
+	Ex_07_Arrays_Slices.Arrays()
+
+	Ex_07_Arrays_Slices.ArraysOfArrays()
+
+	Ex_07_Arrays_Slices.CopyingArray()
+
+	Ex_07_Arrays_Slices.Slices()
+
+	Ex_07_Arrays_Slices.DifferentWaysOfCreatingSlices()
+
+	Ex_07_Arrays_Slices.CreateSliceWithMakeBuiltInFunc()
+
+	Ex_07_Arrays_Slices.AddingElementToSlice()
+
+	Ex_07_Arrays_Slices.StackOperationInSlices()
 
 }
