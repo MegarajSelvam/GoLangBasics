@@ -1,6 +1,8 @@
 # GoLangBasics
 Go Long Basics
 
+Followed following Youtube Series (FreeCodeCamp.org)
+https://www.youtube.com/watch?v=YS4e4q9oBaU&t=5845s
 # ##################################
 Quick Start
 Step 1:

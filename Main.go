@@ -6,28 +6,22 @@ import (
 	"golangbasics/Ex_03_Conversions"
 	"golangbasics/Ex_04_Primitives"
 	"golangbasics/Ex_05_Operators"
+	"golangbasics/Ex_06_Constants"
 )
 
 func main() {
-	// Printing Hello World
 	Ex_01_Hello_World.PrintHelloWorld()
 
-	// Welcome User
 	Ex_01_Hello_World.WelcomeUser("megay")
 
-	// Guesture Message
 	Ex_01_Hello_World.GuestureMessage()
 
-	// How to declare variables and thier scopes
 	Ex_02_Variables.VariableDeclarationStyle()
 
-	// Shadowing Concept
 	Ex_02_Variables.Shadowing()
 
-	// Convert from one numeric type to another
 	Ex_03_Conversions.NumericalConversions()
 
-	// Convert primitive data type to string
 	Ex_03_Conversions.StringConversions()
 
 	Ex_03_Conversions.StringToBytes()
@@ -45,5 +39,15 @@ func main() {
 	Ex_05_Operators.BitShifting()
 
 	Ex_05_Operators.BitWiseOperators()
+
+	Ex_06_Constants.Constants()
+
+	Ex_06_Constants.MixConstantAndVarialbe()
+
+	Ex_06_Constants.ShadowingInConstants()
+
+	Ex_06_Constants.EnumeratedConstants()
+
+	Ex_06_Constants.EnumeratedExpressions()
 
 }
