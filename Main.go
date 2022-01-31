@@ -8,6 +8,7 @@ import (
 	"golangbasics/Ex_05_Operators"
 	"golangbasics/Ex_06_Constants"
 	"golangbasics/Ex_07_Arrays_Slices"
+	"golangbasics/Ex_13_Functions"
 )
 
 func main() {
@@ -67,4 +68,7 @@ func main() {
 
 	Ex_07_Arrays_Slices.StackOperationInSlices()
 
+	Ex_13_Functions.BasicFunctions()
+
+	Ex_13_Functions.AdvancedFunctions()
 }
