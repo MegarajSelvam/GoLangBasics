@@ -8,6 +8,7 @@ import (
 	"golangbasics/Ex_05_Operators"
 	"golangbasics/Ex_06_Constants"
 	"golangbasics/Ex_07_Arrays_Slices"
+	"golangbasics/Ex_08_Maps_Structs"
 	"golangbasics/Ex_13_Functions"
 )
 
@@ -67,6 +68,14 @@ func main() {
 	Ex_07_Arrays_Slices.AddingElementToSlice()
 
 	Ex_07_Arrays_Slices.StackOperationInSlices()
+
+	Ex_08_Maps_Structs.Maps()
+
+	Ex_08_Maps_Structs.Struct()
+
+	Ex_08_Maps_Structs.Composition()
+
+	Ex_08_Maps_Structs.TagsInStruct()
 
 	Ex_13_Functions.BasicFunctions()
 
