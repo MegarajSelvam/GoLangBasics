@@ -11,6 +11,7 @@ import (
 	"golangbasics/Ex_08_Maps_Structs"
 	"golangbasics/Ex_09_If_And_Switch_Statements"
 	"golangbasics/Ex_10_Looping"
+	"golangbasics/Ex_11_Control_Flow"
 	"golangbasics/Ex_13_Functions"
 )
 
@@ -84,6 +85,8 @@ func main() {
 	Ex_09_If_And_Switch_Statements.SwitchExample()
 
 	Ex_10_Looping.Looping()
+
+	Ex_11_Control_Flow.ControlFlow()
 
 	Ex_13_Functions.BasicFunctions()
 

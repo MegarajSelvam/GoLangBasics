@@ -56,7 +56,7 @@ func infiniteLoop() {
 
 	for {
 		fmt.Println(i)
-
+		i++
 		if i == 5 {
 			break
 		}
