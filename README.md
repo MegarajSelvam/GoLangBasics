@@ -1,7 +1,7 @@
 # GoLangBasics
 Go Long Basics
 
-Followed following Youtube Series (FreeCodeCamp.org)
+Reference: Youtube Series (FreeCodeCamp.org)
 https://www.youtube.com/watch?v=YS4e4q9oBaU&t=5845s
 # ##################################
 Quick Start
@@ -10,11 +10,11 @@ Install Go Installer based on OS
     https://go.dev/doc/install
 
 Step 2:
-Install some IDE to work. I prefer to use Visual Studio as IDE
+Install some IDE which support Go lang to work. I prefer to use Visual Studio Code as IDE
     https://code.visualstudio.com/download
 
 Step 3:
-Download and play around the solution
+Download and play around the solution on topic wise.
 
 # ##################################
 
