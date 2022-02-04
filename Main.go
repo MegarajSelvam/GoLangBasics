@@ -10,6 +10,7 @@ import (
 	"golangbasics/Ex_07_Arrays_Slices"
 	"golangbasics/Ex_08_Maps_Structs"
 	"golangbasics/Ex_09_If_And_Switch_Statements"
+	"golangbasics/Ex_10_Looping"
 	"golangbasics/Ex_13_Functions"
 )
 
@@ -81,6 +82,8 @@ func main() {
 	Ex_09_If_And_Switch_Statements.IfStatementsInGo()
 
 	Ex_09_If_And_Switch_Statements.SwitchExample()
+
+	Ex_10_Looping.Looping()
 
 	Ex_13_Functions.BasicFunctions()
 
