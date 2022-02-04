@@ -9,6 +9,7 @@ import (
 	"golangbasics/Ex_06_Constants"
 	"golangbasics/Ex_07_Arrays_Slices"
 	"golangbasics/Ex_08_Maps_Structs"
+	"golangbasics/Ex_09_If_And_Switch_Statements"
 	"golangbasics/Ex_13_Functions"
 )
 
@@ -76,6 +77,10 @@ func main() {
 	Ex_08_Maps_Structs.Composition()
 
 	Ex_08_Maps_Structs.TagsInStruct()
+
+	Ex_09_If_And_Switch_Statements.IfStatementsInGo()
+
+	Ex_09_If_And_Switch_Statements.SwitchExample()
 
 	Ex_13_Functions.BasicFunctions()
 
