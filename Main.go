@@ -12,6 +12,7 @@ import (
 	"golangbasics/Ex_09_If_And_Switch_Statements"
 	"golangbasics/Ex_10_Looping"
 	"golangbasics/Ex_11_Control_Flow"
+	"golangbasics/Ex_12_Pointers"
 	"golangbasics/Ex_13_Functions"
 )
 
@@ -87,6 +88,8 @@ func main() {
 	Ex_10_Looping.Looping()
 
 	Ex_11_Control_Flow.ControlFlow()
+
+	Ex_12_Pointers.Pointers()
 
 	Ex_13_Functions.BasicFunctions()
 

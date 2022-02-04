@@ -36,10 +36,13 @@ func ControlFlow() {
 	deferOrderExample2()
 	deferUseCase()
 
-	panicExample()
-	panicAndDeferCombined()
-	panicUseCase()
-	callPanicer()
+	// Uncomment only for testing purpose. otherwise it will stop the program as we are rasing panic here
+	/*
+		panicExample()
+		panicAndDeferCombined()
+		panicUseCase()
+		callPanicer()
+	*/
 
 }
 
